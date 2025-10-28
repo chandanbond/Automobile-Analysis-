@@ -47,6 +47,7 @@ This project showcases how Apache Hive can be leveraged for large-scale data ana
 
 
 ## Author
-# Chandan Patel  
-Data Analysis & Visualization Enthusiast  
-[GitHub Profile](https://github.com/<chandanbond>)
+Chandan Patel
+(Data Analysis & Visualization Enthusiast) 
+Email - chandanbondpatel@gmail.com
+🌐 GitHub: https://github.com/chandanbond
